@@ -2,7 +2,7 @@
   "name": "node-starter-template",
   "version": "1.0.0",
   "description": "Full-stack personal portfolio website",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
